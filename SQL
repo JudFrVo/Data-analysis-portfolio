@@ -1,0 +1,3 @@
+# SQL en BigQuery
+
+Esta carpeta contiene consultas SQL realizadas en Google BigQuery para análisis de datos. 
