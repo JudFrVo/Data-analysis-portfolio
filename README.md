@@ -32,7 +32,7 @@ Repositorio/
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/JudFrVo/Proyecto.git
+   git clone https://github.com/JudFrVo/Proyecto SQL BigQuery.git
    ```
 
 2. Abre el archivo `consultas_bigquery.sql` en tu editor SQL o en BigQuery para ejecutar las consultas.
