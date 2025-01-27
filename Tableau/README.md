@@ -26,11 +26,7 @@ O puedes acceder al dashboard en Tableau Public: [Ver Dashboard](https://public.
 ## Tecnologías utilizadas
 - Tableau Desktop
 - Tableau Public 
-- GitHub para la 
-
-![Image](https://github.com/user-attachments/assets/0221950f-1495-4e05-b469-5625e0c53b81)
-
-documentación y almacenamiento.
+- GitHub para la documentación y almacenamiento.
 
 ## Contacto
 Si tienes preguntas sobre este proyecto, no dudes en contactar.
